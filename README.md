@@ -18,9 +18,13 @@
 
 📍 Udaipur, Rajasthan, India &nbsp;·&nbsp; 💼 Available for Full-Stack & AI Engineering Roles &nbsp;·&nbsp; 🌐 Remote-friendly
 
+<!-- LIVE CLOCK — updates every time the README is viewed -->
+![Time in IST](https://worldtimeapi-shields.vercel.app/api/timezone/Asia/Kolkata?label=🕐%20IST&style=flat-square&color=0D1117&labelColor=00D4AA&logoColor=white)
+![Visitor Count](https://komarev.com/ghpvc/?username=prsanjeetpanwar&color=00D4AA&style=flat-square&label=👁️+Profile+Views)
+
 </div>
 
-
+---
 
 ## `$ whoami`
 
@@ -36,6 +40,26 @@ const prsanjeet = {
 ```
 
 > Computer Science graduate (GPA 8.74/10) with hands-on full-stack experience across the complete web stack — cloud services, real-time systems, and AI-powered applications. Passionate about clean, maintainable code and collaborative engineering.
+
+---
+
+## `$ git log --stat` &nbsp; *(live)*
+
+<div align="center">
+
+<!-- GitHub Stats — live, regenerated on every page view -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prsanjeetpanwar&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=C9D1D9&rank_icon=github&custom_title=prsanjeetpanwar's+GitHub+Stats)
+
+<!-- Contribution Streak — live -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prsanjeetpanwar&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4AA&fire=FF6B35&currStreakLabel=00D4AA&sideLabels=C9D1D9&dates=888888&stroke=00D4AA)
+
+<!-- Top Languages — live -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prsanjeetpanwar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=C9D1D9&langs_count=8)
+
+<!-- Contribution Graph — live activity heatmap -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prsanjeetpanwar&theme=tokyo-night&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FF6B35&area=true&hide_border=true)
+
+</div>
 
 ---
 
@@ -143,20 +167,6 @@ Real-time multi-user coding platform with live cursor sync, in-browser multi-lan
 [DEGREE]  🎓  B.Tech Computer Science · Geetanjali Institute of Technology
                GPA: 8.74 / 10.00  |  2019 – 2023
 ```
-
----
-
-## `$ git log --stat`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prsanjeetpanwar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=C9D1D9&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prsanjeetpanwar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=C9D1D9)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=prsanjeetpanwar&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA)
-
-</div>
 
 ---
 
